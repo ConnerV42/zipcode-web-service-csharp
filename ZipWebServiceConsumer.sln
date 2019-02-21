@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ZipWebServiceConsumer", "ZipWebServiceConsumer\", "{AA82A0B9-E237-4E26-BF9E-9A43A94C0110}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50275"
+		Debug.AspNetCompiler.PhysicalPath = "ZipWebServiceConsumer\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50275\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50275"
+		Release.AspNetCompiler.PhysicalPath = "ZipWebServiceConsumer\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50275\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50275"
+		SlnRelativePath = "ZipWebServiceConsumer\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA82A0B9-E237-4E26-BF9E-9A43A94C0110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA82A0B9-E237-4E26-BF9E-9A43A94C0110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4EE0E2-5DEE-4AE9-8A2A-12F85DC0CF8B}
+	EndGlobalSection
+EndGlobal
